@@ -26,18 +26,14 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+        My research lies at the intersection of dynamic process modelling, model-based control, and machine learning, with applications spanning from mineral processing to emerging decarbonisation technologies. I am particularly interested in how physics-based and machine learning approaches can accelerate process understanding and enable digital twins capable of real-time prediction, optimisation, and control. These tools are critical for improving the sustainability and efficiency of industrial systems that underpin the global energy transition.
+ 
   - block: collection
     id: papers
     content:
