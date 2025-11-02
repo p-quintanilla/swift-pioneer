@@ -29,7 +29,7 @@ sections:
 
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
         My research lies at the intersection of dynamic process modelling, model-based control, and machine learning, with applications spanning from mineral processing to emerging decarbonisation technologies. I am particularly interested in how physics-based and machine learning approaches can accelerate process understanding and enable digital twins capable of real-time prediction, optimisation, and control. These tools are critical for improving the sustainability and efficiency of industrial systems that underpin the global energy transition.
