@@ -16,13 +16,16 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Research
+    url: /#research
+    weigth: 11
   - name: Papers
     url: /#papers
-    weight: 11
+    weight: 12
   - name: Talks
     url: /#talks
-    weight: 12
+    weight: 13
   - name: Awards
     url: /#awards
-    weight: 13
+    weight: 14
 
