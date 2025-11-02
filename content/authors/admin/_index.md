@@ -131,4 +131,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+
+I am an Assistant Professor (UK Lecturer) in Process Systems Engineering in the Department of Chemical Engineering at UCL. I am also an Early Career Advisory Board member in the Control Engineering Practice, a journal of the International Federation of Automatic Control (IFAC), Elsevier. I hold a PhD in Earth Science and Engineering from Imperial College London, and obtained MEng and MSc degrees in Chemical Engineering from Universidad Técnica Federico Santa María in Valparaíso, Chile. I worked as a Postdoctoral Researcher at the Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London, in 2023. I was appointed as an Assistant Professor at Brunel University of London in 2024.
+
+New PhD studentship - apply by December 31, 2025: https://www.findaphd.com/phds/project/phd-studentship-physics-informed-machine-learning-for-control-of-dynamic-systems/?p189787 
