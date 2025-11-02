@@ -13,19 +13,22 @@
   #   weight: 15
   
 main:
-  - name: Bio
+  - name: 
     url: /
     weight: 10
   - name: Research
     url: /#research
-    weigth: 11
+    weight: 20
+  - name: People
+    url: /#people
+    weight: 30
   - name: Papers
     url: /#papers
-    weight: 12
+    weight: 40
   - name: Talks
     url: /#talks
-    weight: 13
+    weight: 50
   - name: Awards
     url: /#awards
-    weight: 14
+    weight: 60
 
